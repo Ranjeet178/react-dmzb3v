@@ -7,7 +7,7 @@ import {
 import Home from "./Home";
 import Stuff from "./Stuff";
 import Contact from "./Contact";
-import "./style.css";
+
  
 class Main extends Component {
   render() {
